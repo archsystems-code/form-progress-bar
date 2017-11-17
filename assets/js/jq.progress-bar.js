@@ -17,7 +17,7 @@
 				'25': 'You\'re doing great so far!',
 				'50': 'You\'re halfway there!',
 				'75': 'Look at that, you\'re nearly done already!',
-				'100': 'All done! Just click <strong>Submit</strong> to continue!'
+				'100': 'All done! Just click <strong>Register</strong> to continue!'
 			},
 			position: 'bottom'
 		};
