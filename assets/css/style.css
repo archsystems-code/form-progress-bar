@@ -60,3 +60,7 @@ fieldset fieldset fieldset legend {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.progress-bar-info {
+  background-color: #61A60D;
+}
